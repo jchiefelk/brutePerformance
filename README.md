@@ -1,3 +1,7 @@
+<h1>Performance Test of Dictionary Search - Python-3.5.2 vs Node.js v7.4.0 </h1>
+
+<p> The winner is, JavaScript!!!!! On my 2014 Macbook Pro with 2.6 GHz Intel Core i5, 8 GB 1600 MHz DDR3, JavaScript runs 2.53 times faster than Python-3 when performing dictionary lookup on a Trie data structure. </p>
+
 <p>
   Spell Checking with JavaScript, using 2 different approaches.
 </p>

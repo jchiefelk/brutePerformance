@@ -1,5 +1,3 @@
-<h1>inspector_de_gramtica_con_javascript</h1>
-
 <p>
   Spell Checking with JavaScript, using 2 different approaches.
 </p>
